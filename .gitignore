@@ -1,0 +1,22 @@
+# Python and Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
+
+# Large audio and image datasets
+audioset/
+spectrograms/
+spectrograms_wavelet/
+spectrograms.zip
+
+# Trained models
+*.keras
+*.h5
+
+# Dataset files - review before sharing
+dataset.csv
+train_data.csv
+test_data.csv
+
+# Generated file lists
+processed_files.txt
+processed_files_wavelet.txt
